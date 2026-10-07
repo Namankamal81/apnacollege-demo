@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first github repository.
 <br>
-Author - Namankamal Kanchan
+Author - Namankamal Kanchan(IIT DHANBAD)
